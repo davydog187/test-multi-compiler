@@ -1,0 +1,11 @@
+{
+  "name": "test-multi-compiler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/davydog187/test-multi-compiler.git",
+  "author": "Dave Lucia <davelucianyc@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^3.5.4"
+  }
+}
